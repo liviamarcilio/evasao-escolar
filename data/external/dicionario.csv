@@ -1,0 +1,18 @@
+Variavel,Significado,Tipo,Subtipo
+gender,"Indica o gênero da pessoa (M:Masculino,F:Feminino)",Qualitativa,Nominal
+NationalITy,Indica a nacionalidade do estudante,Qualitativa,Nominal
+PlaceofBirth,Local de nascimento do estudante,Qualitativa,Nominal
+StageID,Segmento educacional do aluno,Qualitativa,Nominal
+GradeID,Série que o aluno está,Qualitativa,Ordinal
+SectionID,Classe em que o aluno está,Qualitativa,Nominal
+Topic,Disciplina,Qualitativa,Nominal
+Semester,Semestre em que o aluno está,Qualitativa,Ordinal
+Relation,Parente responsavel pelo o estudante,Qualitativa,Nominal
+raisedhands,Quantas vezes o aluno levantou a mão na aula,Quantitativa,Discreta
+VisITedResources,Quantas vezes o aluno visitou o conteudo do curso,Quantitativa,Discreta
+AnnouncementsView,Quantas vezes o aluno olhar os anúncios novos,Quantitativa,Discreta
+Discussion,Quantas vezes o aluno participou de um grupo de discussão,Quantitativa,Discreta
+ParentAnsweringSurvey,Indica se os pais responderam a pesquisa,Qualitativa,Nominal
+ParentschoolSatisfaction,Satisfação dos pais com a escola,Qualitativa,Nominal
+StudentAbsenceDays,Indica quantidade de dias de que o aluno faltou,Qualitativa,Nominal
+Class,Indica uma intervalo de notas,Qualitativa,Nominal
